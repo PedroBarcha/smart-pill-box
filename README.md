@@ -1,4 +1,6 @@
 # Smart Pill Box
+[![Watch the video](https://cloudinary.com/console/media_library/asset/image/upload/pill-box)](https://www.youtube.com/watch?v=uawi_aQo4Ek)
+
 A pill box that reminds the user to take her/his pills, without requiring any hour programming (though buttons or a phone app, for example), which is challenging for old people. All that the person has to do is to put the pills in one of the slices (blue, pink and purple in the figure bellow) and then put it into the corresponding hour case of the box.
 
 <p align="center">
@@ -18,7 +20,7 @@ Components:
 
 Bellow each of the 12 colorful slices there is a thin aluminium plate that touches a wire, which closes the circuit for that specific hour. Each one of these wires should be connected right next to the resistors in the figure above, next to the red line of the breadboard.
 
-# Pill Box Model
+# Pill Box Template
 The pill box was modeled by Emilia Finardi and Federica Rho (both from Politecnico di Milano) and stamped with a 3D stamper. If you want the box template files, email me (correia.barcha at gmail.com) and I shall ask their permission to share the files.
 
 # Pseudo-Algorithm
