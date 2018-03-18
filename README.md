@@ -16,6 +16,11 @@ Components:
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331734/pills_sketch_uno.png" width="65%" height="65%">
 </p>
 
+Bellow each of the 12 colorful slices there is a thin aluminium plate that touches a wire, which closes the circuit for that specific hour. Each one of these wires should be connected right next to the resistors in the figure above, next to the red line of the breadboard.
+
+# Pill Box Model
+The pill box was modeled by Emilia Finardi and Federica Rho (both from Politecnico di Milano) and stamped with a 3D stamper. If you want the box template files, email me (correia.barcha at gmail.com) and I shall ask their permission to share the files.
+
 # Pseudo-Algorithm
 <p align="center">
   <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331483/pseudo-algorithm-final.png">
