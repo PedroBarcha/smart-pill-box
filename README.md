@@ -8,6 +8,10 @@ A pill box that reminds the user to take her/his pills, without requiring any ho
 The case has 12 cases, each one corresponding to one hour. The arduino with its componets is inside the grey part of the box.
 
 # Arduino Sketch
+Components:
+<a name="ai">
+<a name="papai">
+ 
 <p align="center">
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331734/pills_sketch_uno.png" width="65%" height="65%">
 </p>
