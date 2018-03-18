@@ -1,7 +1,7 @@
 # Smart Pill Box
 [![](http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521334400/queijino.png)](https://www.youtube.com/watch?v=uawi_aQo4Ek)
 
-A pill box that reminds the user to take her/his pills, without requiring any hour programming (though buttons or a phone app, for example), which is challenging for old people. All that the person has to do is to put the pills in one of the slices (blue, pink and purple in the figure bellow) and then put it into the corresponding hour case of the box.
+A pill box that reminds the user to take her/his pills, without requiring any time programming (though buttons or a phone app, for example), which is challenging for old people. All that the person has to do is to put the pills in one of the slices (blue, pink and purple in the figure bellow) and then put it into the corresponding hour case of the box.
 
 <p align="center">
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521332405/pill-box.png" width="75%" height="75%">
@@ -11,8 +11,10 @@ The case has 12 colorful slices, each one corresponding to one hour. The arduino
 
 # Arduino Sketch
 Components:
-* a
-* b
+* Real Time Clock: RTC DS3231
+* Stepper Motor: BYJ48
+* LED Lamp
+* Resistors: 12 x 220ohms
  
 <p align="center">
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331734/pills_sketch_uno.png" width="65%" height="65%">
