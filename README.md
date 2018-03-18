@@ -9,8 +9,8 @@ The case has 12 cases, each one corresponding to one hour. The arduino with its 
 
 # Arduino Sketch
 Components:
-<a name="ai">
-<a name="papai">
+<a name="ai"/>
+<a name="papai"/>
  
 <p align="center">
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331734/pills_sketch_uno.png" width="65%" height="65%">
