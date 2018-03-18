@@ -7,7 +7,7 @@ A pill box that reminds the user to take her/his pills, without requiring any ti
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521332405/pill-box.png" width="75%" height="75%">
 </p>
 
-The case has 12 colorful slices, each one corresponding to one hour. The arduino with its componets is inside the grey part of the box.
+The case has 12 colorful slices, each one corresponding to one hour. The arduino with its components is inside the grey part of the box.
 
 # Arduino Sketch
 Components:
@@ -20,7 +20,7 @@ Components:
  <img src="http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521331734/pills_sketch_uno.png" width="65%" height="65%">
 </p>
 
-Bellow each of the 12 colorful slices there is a thin aluminium plate that touches a wire, which closes the circuit for that specific hour. Each one of these wires should be connected right next to the resistors in the figure above, next to the red line of the breadboard.
+Bellow each one of the 12 colorful slices there is a thin aluminium plate that touches a wire, which closes the circuit for that specific hour. Each one of these wires should be connected right next to the resistors in the figure above, next to the red line of the breadboard.
 
 # Pill Box Template
 The pill box was modeled by Emilia Finardi and Federica Rho (both from Politecnico di Milano) and stamped with a 3D stamper. If you want the box template files, email me (correia.barcha at gmail.com) and I shall ask their permission to share the files.
