@@ -1,7 +1,5 @@
 # Smart Pill Box
-<p align="center">
 [![Alt text for your video](http://res.cloudinary.com/dkxkt5ibp/image/upload/v1521334400/queijino.png)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
- </p>
 
 A pill box that reminds the user to take her/his pills, without requiring any hour programming (though buttons or a phone app, for example), which is challenging for old people. All that the person has to do is to put the pills in one of the slices (blue, pink and purple in the figure bellow) and then put it into the corresponding hour case of the box.
 
